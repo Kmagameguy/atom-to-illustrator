@@ -1,0 +1,27 @@
+{
+	"context-menu": {
+		"atom-text-editor": [{
+			"label": "Run atom-to-illustrator",
+			"command": "atom-to-illustrator:run"
+		}]
+	},
+	"menu": [{
+		"label": "Packages",
+		"submenu": [{
+			"label": "Atom to Illustrator",
+			"submenu": [{
+					"label": "Run",
+					"command": "atom-to-illustrator:run"
+				},
+				{
+					"label": "Toggle Console",
+					"command": "atom-to-illustrator:toggleConsole"
+				},
+				{
+					"label": "Clear Console",
+					"command": "atom-to-illustrator:clearConsole"
+				}
+			]
+		}]
+	}]
+}

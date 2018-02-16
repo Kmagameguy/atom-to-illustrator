@@ -1,8 +1,7 @@
 /*
- * atom-to-photoshop (Atom extension)
+ * atom-to-illustrator (Atom extension)
  *
  * Console Module
- * Author: Javier Aroche
  *
  */
 

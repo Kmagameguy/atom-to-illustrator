@@ -1,7 +1,0 @@
-{
-	"atom-workspace": {
-		"ctrl-alt-shift-p": "atom-to-photoshop:run",
-		"ctrl-alt-shift-o": "atom-to-photoshop:toggleConsole",
-		"ctrl-alt-shift-c": "atom-to-photoshop:clearConsole"
-	}
-}

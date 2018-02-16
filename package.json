@@ -1,10 +1,10 @@
 {
-  "name": "atom-to-photoshop",
-  "main": "./lib/atom-to-photoshop",
-  "version": "2.0.1",
-  "description": "Atom to Photoshop is an extension for Atom to execute a JSX file in Photoshop.",
+  "name": "atom-to-illustrator",
+  "main": "./lib/atom-to-illustrator",
+  "version": "1.0.0",
+  "description": "Atom to Illustrator is an extension for Atom to execute a JSX file in Illustrator.",
   "keywords": [],
-  "repository": "https://github.com/javieraroche/atom-to-photoshop",
+  "repository": "https://github.com/Kaktug/atom-to-illustrator",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

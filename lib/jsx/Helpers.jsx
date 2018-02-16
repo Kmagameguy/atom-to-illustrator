@@ -1,8 +1,7 @@
 /*
- * atom-to-photoshop (Atom extension)
+ * atom-to-illustrator (Atom extension)
  *
  * Helpers Module
- * Author: Javier Aroche
  *
  */
 
@@ -45,4 +44,4 @@ $.writeln = function (message) {
 	ExtendScriptWrite(message);
 }
 
-"atom-to-photoshop";
+"atom-to-illustrator";
