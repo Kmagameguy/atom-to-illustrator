@@ -1,7 +1,7 @@
 {
   "name": "atom-to-illustrator",
   "main": "./lib/atom-to-illustrator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Atom to Illustrator is an extension for Atom to execute a JSX file in Illustrator.",
   "keywords": [],
   "repository": "https://github.com/Kaktug/atom-to-illustrator",
