@@ -1,6 +1,6 @@
 {
 	"atom-workspace": {
-		"ctrl-alt-shift-p": "atom-to-illustrator:run",
+		"ctrl-alt-shift-i": "atom-to-illustrator:run",
 		"ctrl-alt-shift-o": "atom-to-illustrator:toggleConsole",
 		"ctrl-alt-shift-c": "atom-to-illustrator:clearConsole"
 	}
