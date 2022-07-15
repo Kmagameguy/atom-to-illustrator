@@ -1,3 +1,7 @@
+# RIP Atom Editor :(  This project is now deprecated due to [Github's sunsetting of Atom](https://github.blog/2022-06-08-sunsetting-atom/)
+
+---
+
 # Atom-to-Illustrator
 
 ### Description
